@@ -51,18 +51,6 @@ function Home() {
             price={149.99}
             image={backpack}
           />
-          <Product
-            id='8'
-            title='Nano Puff® Jacket'
-            price={99.99}
-            image={sleepingBag}
-          />
-          <Product
-            id='9'
-            title='Retro PRuff® Backpack'
-            price={499.99}
-            image={backpack}
-          />
         </div>
       </div>
     </div>

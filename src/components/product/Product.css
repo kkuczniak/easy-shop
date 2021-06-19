@@ -17,7 +17,7 @@
   object-fit: contain;
 }
 .product > button {
-  background: rgb(12, 148, 211);
+  background: darkorange;
   border: 1px solid;
   margin-top: 5px;
   border-radius: 12px;

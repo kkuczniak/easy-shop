@@ -37,7 +37,7 @@
   width: 98%;
 }
 .login__signInButton {
-  background: rgb(12, 148, 211);
+  background: darkorange;
   border-radius: 2px;
   width: 100%;
   height: 30px;
