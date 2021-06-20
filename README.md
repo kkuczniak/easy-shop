@@ -9,3 +9,8 @@ React
 Hooks
 Firebase
 MATERIAL-UI
+
+### To Do 
+styling 
+gsap animation
+payment section
