@@ -11,6 +11,6 @@ Firebase
 MATERIAL-UI
 
 ### To Do 
-styling 
-gsap animation
+styling,
+gsap animation,
 payment section
