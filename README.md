@@ -1,4 +1,4 @@
-EASY SHOP
+EASY SHOP - ongoing
 
 ### e-commerce project
 Live - https://easy-shop-781fa.web.app/
@@ -8,7 +8,6 @@ Live - https://easy-shop-781fa.web.app/
 React
 Hooks
 Firebase
-MATERIAL-UI
 
 ### To Do 
 styling,
